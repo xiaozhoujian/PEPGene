@@ -1,4 +1,5 @@
-data£ºÊı¾İ
-mainTrain£ºÖ÷ÑµÁ·Ä£ĞÍ
-pepAE£ºpepµÄ×Ô±àÂëÄ£ĞÍ
-utils£ºÊµÓÃº¯Êı
+dataï¼šæ•°æ®
+mainTrainï¼šä¸»è®­ç»ƒæ¨¡å‹
+pepAEï¼špepçš„è‡ªç¼–ç æ¨¡å‹
+utilsï¼šå®ç”¨å‡½æ•°
+test
